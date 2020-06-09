@@ -1,4 +1,4 @@
-# R-alisez-des-indexations-automatiques-d-images
+# Perform automatic image indexing
 This project intend to provide an python application , which allow to detect the dog breed based on his image provided by his owner.  
 Thus you find in this project :  
 Img folder wich contain the Stanford Dogs Dataset , which we had used in our work.   
