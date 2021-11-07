@@ -24,13 +24,13 @@ To get a local copy up and running follow these simple example steps.
 - Clone this project by the command: 
 
 ```
-$ git clone git@github.com:Taher-web-dev/-Automatically-categorize-questions.git
+$ git clone git@github.com:Taher-web-dev/Perform-automatic-image-indexing.git
 ```
 
 - Then go to the main folder using the next command:
 
 ```
-$ cd -Automatically-categorize-questions
+$ cd Perform-automatic-image-indexing
 ```
 
 ### Prerequisites
